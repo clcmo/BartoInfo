@@ -1,39 +1,42 @@
 github: [metadata]
 
 remote_theme: dieghernan/chulapa
+#theme: chulapa-jekyll
 
-
-repository: dieghernan/chulapa
-url: "https://dieghernan.github.io"
-baseurl: "/chulapa"
+repository: bartoinfo/bartoinfo.github.io
+url: "https://bartoinfo.github.io"
+baseurl: "/"
 
 title: Barto Info
 subtitle: A full flexible Jekyll theme
 description: Template for creating free sites on Github Pages
 og_image: "./assets/img/site/banner.png"
-twitter_site: dhernangomez
-timezone: "Europe/Madrid"
+#twitter_site: dhernangomez
+timezone: "America/Sao_Paulo"
 author:
-  name: dieghernan
-  avatar: ./assets/img/site/dieghernan-avatar.png
-  location: Madrid, Spain
+  name: clcmo
+  avatar: ./assets/img/site/clcmo-avatar.png
+  location: São Paulo, Brazil
   links:
-    - url: https://github.com/dieghernan/
+    - url: https://github.com/clcmo/
       icon: "fab fa-github"
       label: GitHub
-    - url: https://dieghernan.github.io/
+    - url: https://clcmo.github.io/
       icon: fas fa-blog
       label: Blog
-    - url: https://stackoverflow.com/users/7877917/dieghernan
+    - url: https://stackoverflow.com/users/7877917/clcmo
       icon: "fab fa-stack-overflow"
       label: StackOverflow
+
 gtag_id:  UA-139034853-5
+
 search:
   provider: algolia
   algolia_logo: true
+
 algolia:
   application_id        : "KOIKA5PDQO"
-  index_name            : "chulapa"
+  index_name            : "bartoinfo"
   search_only_api_key   : "7f1fe42bef3f03458cb3a911ebc7e0ac"
   files_to_exclude:         #Optional
     - _layouts/*.html
@@ -71,60 +74,29 @@ navbar:
   nav:
   - title: Blog
     url: /blog/
-  - title: Docs
+  - title: Sobre
     child:
-     - title: Read the Docs
-       url: /docs
-     - title: Installation
-       url: /docs/01-install
-     - title: Global Settings
-       url: /docs/02-config
-     - title: Theming your site
-       url: /docs/03-theming
-     - title: Layouts & Snippets
-       url: /docs/04-layouts
-     - title: FAQs
-       url: /docs/05-faq
-     - title: Markdown cheatsheet
-       url: /docs/markdown-cheatsheet
-     - title: Syntax highlighting
-       url: /docs/syntax-highlighting
-     - title: Variable dictionary
-       url: /docs/variable-dictionary
-  - title: Skins
-    url: /skins
-  - title: Demos
-    child:
-     - title: Index
-       url: /demo
-     - title: Archive (all)
-       url: /demo/archive
-     - title: Tag Cloud (2 cols)
-       url: /demo/tags
-     - title: Category Cloud (single)
-       url: /demo/category
-     - title: Search Google CSE
-       url: /demo/search_google
-     - title: Search LUNR
-       url: /demo/search_lunr
-     - title: Search Fuse.js
-       url: /demo/search_fusejs
-     - title: Search Simple Jekyll Search
-       url: /demo/search_simple
-     - title: Classic Navbar
-       url: /demo/classic-navbar
+     - title: O que é o BartoInfo?
+       url: /sobre/o-que-e-barto-info
+     - title: O que é a ETEC Barto?
+       url: /sobre/o-que-e-etec-barto    
+     - title: Como Participar
+       url: /sobre/como-participar
+     - title: O dia da informática
+       url: /sobre/dia-da-informatica
   - title: PageSpeed Results
     url:  /pagespeed
   - title: About
     child:
-      - title: License
+      - title: Licença
         url: /license
       - title: Showcase
         url: /showcase
-      - title: Contribute
-        url: /contribute
+      - title: Contribua
+        url: /contribua
       - title: Changelog
-        url: https://github.com/dieghernan/chulapa/blob/master/CHANGELOG.md
+        url: https://github.com/bartoinfo/bartoinfo.github.io/blob/master/CHANGELOG.md
+
 footer:
   links:
     - label: "RSS"
@@ -132,11 +104,11 @@ footer:
       url:  "./atom.xml"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: https://github.com/dieghernan/
+      url: https://github.com/bartoinfo/
     - label: "My blog"
       icon: "fas fa-blog"
-      url: "https://dieghernan.github.io/"
-  copyright: "&copy; 2021 <span class='chulapa'>Chulapa</span> developers"
+      url: "https://bartoinfo.github.io/"
+  copyright: "&copy; 2025 <span class='chulapa'>BartoInfo</span> e o time ETEC Barto. Todos os direitos reservados."
 
 # C. Theme Settings
 chulapa-skin:

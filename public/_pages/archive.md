@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Archive
+title: Arquivo
 subtitle: Blog entries
 permalink: /archive
 include_collection: posts

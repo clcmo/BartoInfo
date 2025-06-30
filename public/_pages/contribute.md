@@ -1,21 +1,20 @@
 ---
 layout: default
-title: Contribute
-subtitle: Help us to improve
-excerpt: Contribute to Chulapa
+title: Contribua
+subtitle: Deixe sua colaboração
+excerpt: Contribua para o BartoInfo
 permalink: /contribute
 show_comments: true
 ---
 
-Any bug? Do you miss an interesting feature? Do you want to add your awesome skin to <span class="chulapa">Chulapa</span>? A typo on the docs?
+Encontrou algum bug? Tem uma sugestão de funcionalidade? Quer contribuir com conteúdos, skins ou melhorias para o <span class="chulapa">BartoInfo</span>? Achou algum erro de digitação?
 
-Please [open an issue](https://github.com/dieghernan/chulapa/issues/new/choose) or leave a comment. Some specific known issues or potential contributions you can help us with:
+Sinta-se à vontade para [abrir uma issue](https://github.com/bartoinfo/bartoinfo.github.io/issues/new/choose) ou deixar um comentário nesta página. Algumas formas de contribuir:
 
-- **Docs**: As english is not my primary language, the docs are likely to be plenty of typos. Please feel free to correct them.
+- **Documentação**: Correções de texto, melhorias e sugestões são sempre bem-vindas!
+- **Skins/Temas**: Se quiser criar um novo tema visual, entre em contato ou envie sua proposta.
+- **Conteúdo**: Sugira palestras, oficinas, notícias ou qualquer informação relevante para a comunidade.
+- **Traduções**: Ajude a tornar o projeto mais acessível para todos.
 
-- **Skins**: If you want to implement your own theme [follow the guide on theming]() and open an issue?
-
-- **Localization of dates**: Currently is limited to a few languages ([see here](https://dieghernan.github.io/chulapa/docs/04-layouts#localization-of-dates)), so if you miss any language:
-   -   Have a look to [the source code](https://github.com/dieghernan/chulapa/blob/master/_includes/snippets/datetranslate.html)
-   -   [Open an issue](https://github.com/dieghernan/chulapa/issues/new/choose) describing your implementation
-   -  PR!
+Sua participação é fundamental para o sucesso do evento e do projeto!  
+Muito obrigado por colaborar com o BartoInfo 🚀

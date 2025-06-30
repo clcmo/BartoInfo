@@ -1,12 +1,10 @@
----
----
 @charset "utf-8";
 @font-face {
   font-family: chulapa;
-  src: url({{ "/assets/fonts/Chulapa/Chulapa-Bold_vmod.otf" | absolute_url }});
+  src: url("/assets/fonts/Chulapa/Chulapa-Bold_vmod.otf");
   font-display: fallback;
 }
-@import "skins/chulapa";
-@import "bootstrap/bootstrap";
-@import "chulapa-master";
-@import "reset-algolia";
+@use "skins/chulapa";
+@use "bootstrap/bootstrap";
+@use "chulapa-master";
+@use "reset-algolia";

@@ -5,6 +5,6 @@
   src: url("/assets/fonts/Chulapa/Chulapa-Bold_vmod.otf");
   font-display: fallback;
 }
-@import "bootstrap/bootstrap";
-@import "chulapa-master";
-@import "reset-algolia";
+@use "bootstrap/bootstrap";
+@use "chulapa-master";
+@use "reset-algolia";

@@ -6,8 +6,10 @@ permalink: ./license
 show_toc: true
 ---
 
-
 ## MIT License
+
+Este site utiliza o tema [Chulapa](https://github.com/dieghernan/chulapa), desenvolvido por [dieghernan](https://github.com/dieghernan) e distribuído sob a licença MIT.  
+Todos os créditos pelo desenvolvimento do tema e integrações pertencem ao autor original.
 
 Copyright <span>&copy;</span> 2020 dieghernan
 
@@ -26,31 +28,24 @@ SOFTWARE.**
 
 ## Attributions
 
-<span class="chulapa">Chulapa</span> is a font owned by the City Council of Madrid designed and produced by Joancarles Casasín y Pablo Gámez on a previous design of Silvia Fernández Palomar licensed under [Creative Commons CC BY, Versión 4.0](https://creativecommons.org/licenses/by/4.0/). This theme incorporates a modification of this work in order to provide support to the english language.
+<span class="chulapa">Chulapa</span> é uma fonte de propriedade do Ayuntamiento de Madrid, desenhada e produzida por Joancarles Casasín e Pablo Gámez, baseada em design anterior de Silvia Fernández Palomar, licenciada sob [Creative Commons CC BY, Versão 4.0](https://creativecommons.org/licenses/by/4.0/). Este tema incorpora uma modificação deste trabalho para suporte ao idioma inglês.
 
-Bootstrap v.4.5 is released under the [MIT license](https://github.com/twbs/bootstrap/blob/v4.5.0/LICENSE) and is copyright 2020 Twitter.
+Bootstrap v.4.5 é distribuído sob a [licença MIT](https://github.com/twbs/bootstrap/blob/v4.5.0/LICENSE) e é copyright 2020 Twitter.
 
-Fontawesome 5.x is free, open source, and GPL friendly - [License](https://fontawesome.com/license/free) (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License).
+Fontawesome 5.x é livre, open source e compatível com GPL - [Licença](https://fontawesome.com/license/free) (Ícones: CC BY 4.0, Fontes: SIL OFL 1.1, Código: MIT License).
 
-This theme incorporates some pieces of code from [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), Copyright (c) 2013-2020 [Michael Rose](https://mademistakes.com/) and contributors distributed under the terms of the [MIT license](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE).
+Este tema incorpora trechos de código do [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), Copyright (c) 2013-2020 [Michael Rose](https://mademistakes.com/) e colaboradores, distribuído sob os termos da [licença MIT](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE).
 
-This theme incorporates [Pygments CSS Themes](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html), developed by [jwarby](https://github.com/jwarby/) distributed under the terms of [The Unlicense](https://github.com/jwarby/jekyll-pygments-themes/blob/master/UNLICENSE.txt).
+Este tema incorpora [Pygments CSS Themes](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html), desenvolvido por [jwarby](https://github.com/jwarby/) sob os termos de [The Unlicense](https://github.com/jwarby/jekyll-pygments-themes/blob/master/UNLICENSE.txt).
 
-This theme incorporates [Ferpal Sans](https://www.silviaferpal.com/portfolio-1/ferpalsans) developed by Silvia Ferpal and it's free for personal use.
+Este tema incorpora [Ferpal Sans](https://www.silviaferpal.com/portfolio-1/ferpalsans) desenvolvido por Silvia Ferpal e é gratuito para uso pessoal.
 
-This theme incorporates [Jekyll Pure Liquid Table of Contents](https://github.com/allejo/jekyll-toc), Copyright © 2017 [Vladimir "allejo" Jimenez](https://github.com/allejo) distributed under the terms of the [MIT license](https://github.com/allejo/jekyll-toc/blob/master/LICENSE.MIT.md).
+Este tema incorpora [Jekyll Pure Liquid Table of Contents](https://github.com/allejo/jekyll-toc), Copyright © 2017 [Vladimir "allejo" Jimenez](https://github.com/allejo) sob os termos da [licença MIT](https://github.com/allejo/jekyll-toc/blob/master/LICENSE.MIT.md).
 
-This theme incorporates [Compress HTML in Jekyll](http://jch.penibelst.de/), Copyright (c) 2014 [Anatol Broder](https://github.com/penibelst) distributed under the terms of the [MIT license](https://github.com/penibelst/jekyll-compress-html/blob/master/LICENSE).
+Este tema incorpora [Compress HTML in Jekyll](http://jch.penibelst.de/), Copyright (c) 2014 [Anatol Broder](https://github.com/penibelst) sob os termos da [licença MIT](https://github.com/penibelst/jekyll-compress-html/blob/master/LICENSE).
 
-This theme incorporates [Lunr](http://lunrjs.com),
-Copyright (c) 2013 Oliver Nightingale.
-Lunr is distributed under the terms of the [MIT License](https://github.com/olivernn/lunr.js/blob/master/LICENSE).
+Este tema incorpora [Lunr](http://lunrjs.com), Copyright (c) 2013 Oliver Nightingale, distribuído sob os termos da [licença MIT](https://github.com/olivernn/lunr.js/blob/master/LICENSE).
 
-This theme uses graphic resources from [Unplash](https://unsplash.com/@dieghernan/collections).
+Este tema utiliza recursos gráficos de [Unsplash](https://unsplash.com/@dieghernan/collections), [Pexels](https://www.pexels.com/@dieghernan-3081919/collections/) e [Lorem Picsum](https://picsum.photos/).
 
-This theme uses graphic resources from [Pexels](https://www.pexels.com/@dieghernan-3081919/collections/).
-
-This theme uses graphic resources from [Lorem Picsum](https://picsum.photos/).
-
-I hereby declared not to be endorsed by any third party whose resources may have been implemented on this software. To my best knowledge, all the third-party integrations included on this software adheres to the corresponding licenses. All legal brands used on this theme are displayed for informative and/or aesthetic purposes, and the corresponding logos were obtained from [https://fontawesome.com/](https://fontawesome.com/). 
-
+Declaro não ser endossado por terceiros cujos recursos possam ter sido implementados neste software. Ao meu conhecimento, todas as integrações de terceiros incluídas neste software seguem as licenças correspondentes. Todas as marcas legais usadas neste tema são exibidas para fins informativos e/ou estéticos, e os respectivos logos foram obtidos em [https://fontawesome.com/](https://fontawesome.com/)

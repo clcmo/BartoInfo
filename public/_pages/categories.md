@@ -1,9 +1,9 @@
 ---
 layout: cloudcategory
-title: Categories
+title: Categorias
 permalink: /categories
 include_collection: posts
-excerpt: Categories on Chulapa
+excerpt: Categorias na BartoInfo
 show_breadcrumb   : true
 breadcrumb_list :
   - label: Home
